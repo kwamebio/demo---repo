@@ -1,3 +1,3 @@
 # Demo
 
-learning Git, i am so excited.
+learning Git, i am so excited!
